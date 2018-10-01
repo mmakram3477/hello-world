@@ -1,2 +1,5 @@
 # hello-world
-test project
+
+hello past self
+
+hope you get good at this.
